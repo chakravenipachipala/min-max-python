@@ -1,0 +1,4 @@
+#2.Findout the minimum element in the list?
+a = [8,2,4,5,9]
+print(min(a))
+print(max (a))
